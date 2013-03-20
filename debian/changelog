@@ -1,0 +1,5 @@
+debathena-lintian-config (1.0) unstable; urgency=low
+  
+  * Initial release. (Trac: #957)
+
+ -- Jonathan Reed <jdreed@mit.edu>  Wed, 20 Mar 2013 15:52:18 -0400

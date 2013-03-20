@@ -1,0 +1,13 @@
+Source: debathena-lintian-config
+Section: debathena/dev
+Priority: extra
+Maintainer: Debathena Project <debathena@mit.edu>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.3
+
+Package: debathena-lintian-config
+Architecture: all
+Depends: ${misc:Depends}, lintian
+Description: Debathena lintian profile and dpkg vendor
+ This package ships a lintian profile for Debathena which disables
+ certain checks that do not apply to the Debathena repository.
