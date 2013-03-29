@@ -17,4 +17,3 @@ Description: Debathena lintian profile and dpkg vendor
  following line to ~/.devscripts:
  .
  DEBUILD_LINTIAN_OPTS="--profile debathena"
- 
