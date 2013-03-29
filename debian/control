@@ -11,3 +11,10 @@ Depends: ${misc:Depends}, lintian
 Description: Debathena lintian profile and dpkg vendor
  This package ships a lintian profile for Debathena which disables
  certain checks that do not apply to the Debathena repository.
+ .
+ To use this package, you need Lintian 2.5.2 or newer (the package may
+ be installed, but is useless without it), and should add the
+ following line to ~/.devscripts:
+ .
+ DEBUILD_LINTIAN_OPTS="--profile debathena"
+ 
