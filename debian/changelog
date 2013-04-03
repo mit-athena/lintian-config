@@ -1,10 +1,3 @@
-debathena-lintian-config (1.1) UNRELEASED; urgency=low
-
-  * Switch from control.in to control (Trac: #561)
-  * Bump Standards-Version to 3.9.3
-
- -- Jonathan Reed <jdreed@mit.edu>  Wed, 03 Apr 2013 13:38:41 -0400
-
 debathena-lintian-config (1.0) unstable; urgency=low
   
   * Initial release. (Trac: #957)
