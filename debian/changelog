@@ -1,3 +1,10 @@
+debathena-lintian-config (1.1) unstable; urgency=low
+
+  * Add git-buildpackage configuration
+  * Set source format to 3.0 (native)
+
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 29 Sep 2013 05:43:34 -0400
+
 debathena-lintian-config (1.0) unstable; urgency=low
   
   * Initial release. (Trac: #957)
